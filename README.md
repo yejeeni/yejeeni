@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **YEJIN-code/YEJIN-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yejiiiin&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=yejiiiin&tag=github)
