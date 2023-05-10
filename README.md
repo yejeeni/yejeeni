@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yejiiiin)](https://velog.io/@yejiiiin) 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yejiiiin)](https://velog-readme-stats.vercel.app/api/redirect?name=YEJIN-code&tag=github)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yejiiiin)](https://github.com/YEJIN-code/velog-readme-stats)
