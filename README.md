@@ -12,5 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=YEJIN&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+
+💌 **About Me** 💌
+
+<a href="https://www.instagram.com/ye_0____0_jin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ye_0____0_jin/"/>
+<a href="https://www.instagram.com/yu_ice_monitoring_22/"><img src="https://img.shields.io/badge/ICE%20monitoring-1890FF?style=flat-square&logo=instagram&logoColor=white&link=www.instagram.com/yu_ice_monitoring_22/"/>
+<a href="https://velog.io/@yejiiiin"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yejiiiin"/></a>
+
+  
+  
+  
+[![yejeeni's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yejeeni&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yejeeni)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yejiiiin)](https://velog.io/@yejiiiin) 
+
+</div>
+
