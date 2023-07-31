@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 💌 **About Me** 💌
 
 <a href="https://www.instagram.com/ye_0____0_jin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ye_0____0_jin/"/></a>
-<a href="https://www.instagram.com/yu_ice_monitoring_22/"><img src="https://img.shields.io/badge/ICE%20monitoring-1890FF?style=flat-square&logo=instagram&logoColor=white&link=www.instagram.com/yu_ice_monitoring_22/"/></a>
 <a href="https://velog.io/@yejiiiin"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yejiiiin"/></a>
 <a href="mailto:908418@yu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
