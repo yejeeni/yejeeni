@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 🏆 **GITHUB STATS**
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yejeeni&theme=flat&column=8)
+![trophy](https://github-profile-trophy.vercel.app/?username=yejeeni&theme=flat&column=9&exclude=followers&no-frame=true)
 
 [![yejeeni's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yejeeni&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yejeeni)
 <br><br>
