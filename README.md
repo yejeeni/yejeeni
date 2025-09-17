@@ -30,6 +30,11 @@ Spring을 활용한 웹 애플리케이션 개발부터 MySQL 데이터베이스
 <a href="https://cooing-violet-f5e.notion.site/KIM-YE-JIN-8d4201cf577846a5889644f36adfbfa1?pvs=74" target="_blank"><img src="https://img.shields.io/badge/portfolio-yellow?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@yejiiiin"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yejiiiin"/></a>
 <a href="mailto:908418@yu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yejiiiin)](https://velog.io/@yejiiiin) 
+
 <br><br>
 
 📚 **STACKS**
